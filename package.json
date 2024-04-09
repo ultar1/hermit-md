@@ -22,7 +22,7 @@
     "express": "latest",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
-    "fs": "0.0.1-security",
+    "fs": "0.0.2",
     "google-it": "^1.6.3",
     "google-tts-api": "^2.0.2",
     "got": "^11.8.3",
